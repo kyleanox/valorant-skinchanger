@@ -1,2 +1,2 @@
-# valorant-skinchanger
+# Valorant Skin Changer
 Valorant Skin Changer
